@@ -1,6 +1,6 @@
 # Instalación de Docker en linux
 
-![]()
+![logo]()
 
 ## Índice
 
